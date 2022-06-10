@@ -3,7 +3,7 @@ const LinksSocialMedia = {
   youtube: '',
   facebook: 'joshuadesouza',
   instagram: 'joshyuuki_',
-  linkedin: 'joshua-yuuki-onizuka-b497a2189'
+  linkedin: '/in/joshua-yuuki-onizuka-b497a2189'
 }
 
 function changeSocialMediaLinks() {
