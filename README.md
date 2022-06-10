@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src=".github/nlw-heat.png" width="100%">
+  <img src= "https://github.com/yuukiozk/NLW-Heat-Origin-Cracha/blob/main/Screenshot_1.jpg">
 </p>
 
 ## 🚀 Tecnologias
